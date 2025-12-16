@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Pranjal
-- 👀 I’m interested in Web Development 
-- 🌱 I’m currently learning Javascript and ReactJs.
+- 👀 I’m a Full Stack Developer.
+- 🌱 I’m currently exploring Web Development. 
 - 💞️ I have decent knowledge of Java,C,C++,Python,HTML,CSS ,Unix and MySQL.
 - 📫 Reach me on pranjalupadhyay007@gmail.com if you want to collaborate on Projects of Web Developmenat.
 
