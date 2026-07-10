@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Pranjal Upadhyay  
+# 👋 Hi, I’m Pranjal 
 
 ## 💻 Full Stack Developer (Java + React)
 
