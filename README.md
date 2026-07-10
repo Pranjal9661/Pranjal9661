@@ -1,8 +1,23 @@
-- 👋 Hi, I’m Pranjal
-- 👀 I’m a Full Stack Developer.
-- 🌱 I’m currently exploring Web Development. 
-- 💞️ I have decent knowledge of Java,C,C++,Python,HTML,CSS ,Unix and MySQL.
-- 📫 Reach me on pranjalupadhyay007@gmail.com if you want to collaborate on Projects of Web Developmenat.
+# 👋 Hi, I’m Pranjal Upadhyay  
+
+## 💻 Full Stack Developer (Java + React)
+
+### 🚀 Expertise
+- **Backend:** Java, Spring Boot, Spring  
+- **Frontend:** JavaScript, ReactJS  
+- **DevOps & Cloud:** Docker, Kubernetes  
+- **Database:** MySQL, MongoDB
+
+### 📈 Experience
+- 3+ years of hands-on experience in designing, building, and delivering **distributed applications**.  
+- Proven track record of creating scalable, production-ready systems.  
+
+### 🔥 GitHub Updates
+My repositories have been quiet for a while — but stay tuned! Exciting new projects are on the way, and I promise they won’t disappoint.  
+
+### 📫 Let’s Collaborate
+Reach me at **pranjalupadhyay007@gmail.com** if you’d like to work together on **Web Development projects**.  
+
 
 <!---
 Pranjal9661/Pranjal9661 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
